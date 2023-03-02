@@ -32,7 +32,7 @@ namespace M01S03
          }
 
          public double CalcularValor(){
-            double valor = CalcularTempo() * 1;
+            double valor = CalcularTempo() * 0.9;
             return valor;
          }
             
